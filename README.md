@@ -8,7 +8,8 @@ Inspired by <a href="https://create.arduino.cc/projecthub/Maxchess/wooden-chess-
 <li>Connect to server to record players, games, game moves, results, etc.</li>
 <li>Add a built-in chess clock</li>
 <li>Full-blown table, not just a board, with cup holders</li>
-<li>Play against Alexa/Echo</li>
+<li>Integrate with Alexa/Echo.  Game options selection. Play vs. Alexa</li>
 <li>Replay of recorded games</li>
 <li>Silly sound effects</li>
+<li>Commentary/trash-talk from Alexa</li>
 </list>
