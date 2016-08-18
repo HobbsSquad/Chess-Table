@@ -9,4 +9,6 @@ Inspired by <a href="https://create.arduino.cc/projecthub/Maxchess/wooden-chess-
 <li>Add a built-in chess clock</li>
 <li>Full-blown table, not just a board, with cup holders</li>
 <li>Play against Alexa/Echo</li>
+<li>Replay of recorded games</li>
+<li>Silly sound effects</li>
 </list>
