@@ -1,4 +1,4 @@
-# Chess-Table
+# Chess Table
 <i>Human vs. Human or Human vs. Computer.  Real board, real pieces, really high tech</i>
 
 Inspired by <a href="https://create.arduino.cc/projecthub/Maxchess/wooden-chess-board-with-piece-recognition-872ffb?ref=search&ref_id=chess&offset=0">this</a> project on Arduino Project Hub.
