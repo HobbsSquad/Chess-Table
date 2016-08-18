@@ -12,5 +12,5 @@ Inspired by <a href="https://create.arduino.cc/projecthub/Maxchess/wooden-chess-
 <li>Replay of recorded games</li>
 <li>Silly sound effects</li>
 <li>Commentary/trash-talk from Alexa</li>
-<li>Display game-play, or replay, on a remote monitor/tv</li>
+<li>Display game-play, or replay, on a remote monitor/TV</li>
 </list>
